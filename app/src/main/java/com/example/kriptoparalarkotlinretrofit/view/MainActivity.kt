@@ -40,8 +40,7 @@ class MainActivity : AppCompatActivity(),RecyclerViewAdapter.Listener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        // api_key = 8211a604e46b8983354e5f8cd9be1056
-        // https://api.nomics.com/v1/currencies/ticker?key=8211a604e46b8983354e5f8cd9be1056
+
 
 
     //    compositeDisposable = CompositeDisposable()
